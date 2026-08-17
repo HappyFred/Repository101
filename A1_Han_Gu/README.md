@@ -10,6 +10,8 @@ The program uses object-oriented design with classes, private attributes,
 properties, validation, object relationships, and customised `__str__`
 methods.
 
+add notes
+
 ## Class responsibilities
 
 ### `Plant`
